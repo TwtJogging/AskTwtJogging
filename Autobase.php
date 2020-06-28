@@ -6,9 +6,8 @@ require_once('TwitterAPIExchange.php');
 $settings = array(
 'oauth_access_token' => "302499733-phJgOlbNgbxGdMefUMeooHJ8kjnMqfcbBPksaNzG",
 'oauth_access_token_secret' => "Xoxecd0crTFXAVsOZ5WjDC1W6u0tamYbZIvbQP7VHWdPH",
-'consumer_key' => "bbKvwzRZmff0dOZbUmTKdOscZ",
-'consumer_secret' => "
-dmmav32DomtSqUGcThoBzujLKq410u8dHNpwOrXGgexf6MNLQy"
+'consumer_key' => "JIIAycJJhnll9oN3BcuPvonj1",
+'consumer_secret' => "X5wXBt8ynMPDltr4QnapS6Ikvy6frdp1KIpifuvXtCC9TwSWBu"
 );
 
 $url = 'https://api.twitter.com/1.1/direct_messages/events/list.json';

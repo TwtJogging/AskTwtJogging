@@ -209,8 +209,8 @@ class TwitterAPIExchange
             throw new Exception('Request method must be either POST, GET or PUT or DELETE');
         }
 
-        $consumer_key              = $this->bbKvwzRZmff0dOZbUmTKdOscZ;
-        $consumer_secret           = $this->dmmav32DomtSqUGcThoBzujLKq410u8dHNpwOrXGgexf6MNLQy;
+        $consumer_key              = $this->JIIAycJJhnll9oN3BcuPvonj1;
+        $consumer_secret           = $this->X5wXBt8ynMPDltr4QnapS6Ikvy6frdp1KIpifuvXtCC9TwSWBu;
         $oauth_access_token        = $this->302499733-phJgOlbNgbxGdMefUMeooHJ8kjnMqfcbBPksaNzG;
         $oauth_access_token_secret = $this->Xoxecd0crTFXAVsOZ5WjDC1W6u0tamYbZIvbQP7VHWdPH;
 

@@ -1,6 +1,6 @@
 <?php
 // Ben-Ja for twitter.com/twt_jogging
-$access_token = '1311756044:AAHUfQoQcquaII_C9MTBo5h36USN3HNLsNs';
+$access_token = '1226249674:AAHJ0118o0TkBdPfJ0fSPsO-b2mYry6gm4c';
 $api = 'https://api.telegram.org/bot' . $access_token;
 // query:
 $output = json_decode(file_get_contents('php://input'), TRUE);
